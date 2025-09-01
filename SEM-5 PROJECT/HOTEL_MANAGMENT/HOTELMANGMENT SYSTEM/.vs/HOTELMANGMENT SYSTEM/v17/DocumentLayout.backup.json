@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SEM-5 PROJECT\\HOTEL_MANAGMENT\\HOTELMANGMENT SYSTEM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19FE9C5D-653E-4373-AC14-C42B3389A02D}|HOTELMANGMENT SYSTEM\\HOTELMANGMENT SYSTEM.csproj|e:\\sem-5 project\\hotel_managment\\hotelmangment system\\hotelmangment system\\foodorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19FE9C5D-653E-4373-AC14-C42B3389A02D}|HOTELMANGMENT SYSTEM\\HOTELMANGMENT SYSTEM.csproj|solutionrelative:hotelmangment system\\foodorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FE9C5D-653E-4373-AC14-C42B3389A02D}|HOTELMANGMENT SYSTEM\\HOTELMANGMENT SYSTEM.csproj|E:\\SEM-5 PROJECT\\HOTEL_MANAGMENT\\HOTELMANGMENT SYSTEM\\hotelmangment system\\bookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19FE9C5D-653E-4373-AC14-C42B3389A02D}|HOTELMANGMENT SYSTEM\\HOTELMANGMENT SYSTEM.csproj|solutionrelative:hotelmangment system\\bookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FE9C5D-653E-4373-AC14-C42B3389A02D}|HOTELMANGMENT SYSTEM\\HOTELMANGMENT SYSTEM.csproj|E:\\SEM-5 PROJECT\\HOTEL_MANAGMENT\\HOTELMANGMENT SYSTEM\\hotelmangment system\\checkoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19FE9C5D-653E-4373-AC14-C42B3389A02D}|HOTELMANGMENT SYSTEM\\HOTELMANGMENT SYSTEM.csproj|solutionrelative:hotelmangment system\\checkoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FE9C5D-653E-4373-AC14-C42B3389A02D}|HOTELMANGMENT SYSTEM\\HOTELMANGMENT SYSTEM.csproj|E:\\SEM-5 PROJECT\\HOTEL_MANAGMENT\\HOTELMANGMENT SYSTEM\\hotelmangment system\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19FE9C5D-653E-4373-AC14-C42B3389A02D}|HOTELMANGMENT SYSTEM\\HOTELMANGMENT SYSTEM.csproj|solutionrelative:hotelmangment system\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FoodOrderForm.cs [Design]",
+              "DocumentMoniker": "E:\\SEM-5 PROJECT\\HOTEL_MANAGMENT\\HOTELMANGMENT SYSTEM\\HOTELMANGMENT SYSTEM\\FoodOrderForm.cs",
+              "RelativeDocumentMoniker": "HOTELMANGMENT SYSTEM\\FoodOrderForm.cs",
+              "ToolTip": "E:\\SEM-5 PROJECT\\HOTEL_MANAGMENT\\HOTELMANGMENT SYSTEM\\HOTELMANGMENT SYSTEM\\FoodOrderForm.cs [Design]",
+              "RelativeToolTip": "HOTELMANGMENT SYSTEM\\FoodOrderForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T12:23:13.573Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckoutForm.cs [Design]",
+              "DocumentMoniker": "E:\\SEM-5 PROJECT\\HOTEL_MANAGMENT\\HOTELMANGMENT SYSTEM\\HOTELMANGMENT SYSTEM\\CheckoutForm.cs",
+              "RelativeDocumentMoniker": "HOTELMANGMENT SYSTEM\\CheckoutForm.cs",
+              "ToolTip": "E:\\SEM-5 PROJECT\\HOTEL_MANAGMENT\\HOTELMANGMENT SYSTEM\\HOTELMANGMENT SYSTEM\\CheckoutForm.cs [Design]",
+              "RelativeToolTip": "HOTELMANGMENT SYSTEM\\CheckoutForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T12:21:13.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingForm.cs [Design]",
+              "DocumentMoniker": "E:\\SEM-5 PROJECT\\HOTEL_MANAGMENT\\HOTELMANGMENT SYSTEM\\HOTELMANGMENT SYSTEM\\BookingForm.cs",
+              "RelativeDocumentMoniker": "HOTELMANGMENT SYSTEM\\BookingForm.cs",
+              "ToolTip": "E:\\SEM-5 PROJECT\\HOTEL_MANAGMENT\\HOTELMANGMENT SYSTEM\\HOTELMANGMENT SYSTEM\\BookingForm.cs [Design]",
+              "RelativeToolTip": "HOTELMANGMENT SYSTEM\\BookingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T12:23:06.677Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "E:\\SEM-5 PROJECT\\HOTEL_MANAGMENT\\HOTELMANGMENT SYSTEM\\HOTELMANGMENT SYSTEM\\AdminForm.cs",
+              "RelativeDocumentMoniker": "HOTELMANGMENT SYSTEM\\AdminForm.cs",
+              "ToolTip": "E:\\SEM-5 PROJECT\\HOTEL_MANAGMENT\\HOTELMANGMENT SYSTEM\\HOTELMANGMENT SYSTEM\\AdminForm.cs [Design]",
+              "RelativeToolTip": "HOTELMANGMENT SYSTEM\\AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T12:23:00.359Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
